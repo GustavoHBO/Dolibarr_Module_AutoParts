@@ -1,0 +1,78 @@
+# Copyright (C) 2019 SuperAdmin
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleProductAutoPartsName'
+ModuleProductAutoPartsName = ProductAutoParts
+# Module description 'ModuleProductAutoPartsDesc'
+ModuleProductAutoPartsDesc = ProductAutoParts description
+
+#
+# Admin page
+#
+ProductAutoPartsSetup = ProductAutoParts setup
+Settings = Settings
+ProductAutoPartsSetupPage = ProductAutoParts setup page
+PRODUCTAUTOPARTS_MYPARAM1 = My param 1
+PRODUCTAUTOPARTS_MYPARAM1Tooltip = My param 1 tooltip
+PRODUCTAUTOPARTS_MYPARAM2=My param 2
+PRODUCTAUTOPARTS_MYPARAM2Tooltip=My param 2 tooltip
+
+#
+# Global
+#
+AutomobileManufacturer = Fabricante de Veículos
+ProductAutoParts = Produtos (Autopeças)
+
+#
+# Menu
+#
+NewVehicle = Novo Veículo
+ListVehicle = Lista de Veículos
+ListAutomobileManufacturer = List Automobile Manufacturer
+
+#
+# About page
+#
+About = About
+ProductAutoPartsAbout = Sobre Produtos de Autopeças
+ProductAutoPartsAboutPage = ProductAutoParts página de descrição
+
+#
+# Sample page
+#
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
+
+#
+# Form create Automobile Manufacture
+#
+Ref = Ref.
+Tag = Tag
+Description = Descrição
+HelpTextDescription = Entre com algum texto que descreva o fabricante.
+
+#
+# Form create Vehicle
+#
+
